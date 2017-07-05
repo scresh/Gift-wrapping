@@ -1,4 +1,7 @@
 <h1><b>Gift-wrapping</b></h1>
+<div style="text-align: center">
+
+![Animation of the gift wrapping algorithm](https://upload.wikimedia.org/wikipedia/commons/9/9c/Animation_depicting_the_gift_wrapping_algorithm.gif)
 
 Simple implementation of the gift wrapping algorithm (Jarvis march) + calculating field of generated polygon.
 
@@ -10,3 +13,5 @@ Simple implementation of the gift wrapping algorithm (Jarvis march) + calculatin
 - G - Generated points 
 - P - Points on the edge
 - F - Field of polygon
+
+</div>
